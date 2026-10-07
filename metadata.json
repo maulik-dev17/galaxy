@@ -1,0 +1,8 @@
+{
+  "name": "Galaxy Space Shooter",
+  "description": "A hardcore 10-sector space shooter with intense bullet hell battles, epic bosses, weapon upgrades, and arcade sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
